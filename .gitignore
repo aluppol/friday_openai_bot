@@ -1,0 +1,27 @@
+# Flask specific
+/__pycache__/
+instance/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE specific
+.idea/
+.vscode/
+
+# Dependency directories
+venv/
+env/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+gen/
