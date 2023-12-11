@@ -4,7 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jane_openai_bot)
 
-Welcome to Jane, the ultimate personal assistant bot powered by OpenAI's most advanced language models. With the ability to leverage a wide range of OpenAI LLM models, Jane brings the power of AI to your fingertips. Named after the trustworthy AI assistant from the Iron Man series, Jane aims to bring the same level of efficiency and expertise to your day-to-day digital needs.
+Welcome to Jane, the ultimate personal assistant bot powered by OpenAI's most advanced language models. With the ability to leverage a wide range of OpenAI LLM models, Jane brings the power of AI to your fingertips. Jane aims to bring the highest level of efficiency and expertise to your day-to-day digital needs.
 
 ## Key Features 🚀
 
